@@ -54,3 +54,6 @@ data
 .idea
 *.iml
 .aider*
+
+# To run Meilisearch with Docker and mount a persistent volume to keep index data across restarts
+meili_data
